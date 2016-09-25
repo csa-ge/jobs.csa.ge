@@ -1,19 +1,19 @@
 # What's up?
 
 We are connecting good tech employers with good tech employees. We are in the
-headhunting and recruitment business but only in tech. We're different 
+headhunting and recruitment business, but only in tech. We're different 
 because we have very **high standards** both for employers and employees.
 
 # Is English the only language?
 
 We will never consider employers or employees who do not know any English at all.
-We strongly believe every person in tech should know good English and therefor
+We strongly believe every person in tech should know good English and therefore
 it is our only communication language.
 
 If your English skills are not that great and you wish to improve, don't be afraid of
 using bad English. We will help you as much as we can. Try to ask friends for help before
 posting. There are tons of good resources online. Just don't write anything in Georgian,
-it will get deleting with no questions asked.
+it will get deleted with no questions asked.
 
 # Are you profiting from this?
 
@@ -44,7 +44,7 @@ you enjoy `IntelliJ` or prefer `Sublime`, but we want you to know at least one o
 `git` is something used by every programmer, so that's also a must know. Knowing good command line tools, 
 weird unix command like `sed` or `awk` are hard to learn, but they have enormous ROI.
 
-Communication skills is a must have. Coding is not communicating with computer, it's communicating
+Communication skills are a must have. Coding is not communicating with computer, it's communicating
 with other engineers. If a person is a good communicator (like Ronald Reagan) code quality is very
 high in most cases. Code is written to be read more frequently than edited. That's why `vim` has reading
 mode and writing mode (and that's why it is so good for generating random numbers).
@@ -61,7 +61,7 @@ You need to be a **good** employer, that's a rule of thumb. We also have a minim
 your bank account every month. Expect minimum threshold to increase as time goes by.
 
 Also, we expect our candidate companies to have a very good company culture. We embrace diversity and we
-like work environment where talent is appreciated and people are valued accordingly.
+like the kind of work environment where talent is appreciated and people are valued accordingly.
 
 Always remember, to us salary is only part of the equation. Everybody knows at least one guy who went for
 a much smaller salary just because he liked the project.
@@ -97,12 +97,12 @@ we would really appreciate your PR. We don't make any promises, especially when 
 
 # I what to refer somebody, what can I do?
 
-If you want to refer someone (either a potential employer or a potential employee) who you meets our criteria,
+If you want to refer someone (either a potential employer or a potential employee) who you think meets our criteria,
 get in touch will any of the admins, we will gladly consider them, but we don't make any promises.
 
 # Do you have any information privacy rules?
 
-As a rule of thumb, we share almost all information publicly. We believe openness is a very goodt thing.
+As a rule of thumb, we share almost all information publicly. We believe openness is a very good thing.
 
 So be advised, if you have some kind of information you are not willing to share publicly, please make
 it very clear and very explicit with our admins.
