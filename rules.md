@@ -4,17 +4,6 @@ We are connecting good tech employers with good tech employees. We are in the
 headhunting and recruitment business, but only in tech. We're different 
 because we have very **high standards** both for employers and employees.
 
-# Is English the only language?
-
-We will never consider employers or employees who do not know any English at all.
-We strongly believe every person in tech should know good English and therefore
-it is our only communication language.
-
-If your English skills are not that great and you wish to improve, don't be afraid of
-using bad English. We will help you as much as we can. Try to ask friends for help before
-posting. There are tons of good resources online. Just don't write anything in Georgian,
-it will get deleted with no questions asked.
-
 # Are you profiting from this?
 
 We are doing this to help people and also to keep the the lights on. Our commission is
@@ -89,6 +78,17 @@ If nobody is entering gender or age, you should not probably enter it as well.
 
 Every admin knows how to properly write a resume and they will probably give you useful feedback if
 you submit for a review.
+
+# Is English the only language?
+
+We will never consider employers or employees who do not know any English at all.
+We strongly believe every person in tech should know good English and therefore
+it is our only communication language.
+
+If your English skills are not that great and you wish to improve, don't be afraid of
+using bad English. We will help you as much as we can. Try to ask friends for help before
+posting. There are tons of good resources online. Just don't write anything in Georgian,
+it will get deleted with no questions asked.
 
 # I have a PR about the rules, can I submit it?
 
