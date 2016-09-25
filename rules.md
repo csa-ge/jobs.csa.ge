@@ -13,7 +13,7 @@ it is our only communication language.
 If your English skills are not that great and you wish to improve, don't be afraid of
 using bad English. We will help you as much as we can. Try to ask friends for help before
 posting. There are tons of good resources online. Just don't write anything in Georgian,
-it will get deleting with no questions asked.
+it will get deleted with no questions asked.
 
 # Are you profiting from this?
 
