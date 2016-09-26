@@ -68,7 +68,7 @@ but to our candidates it is a very big **red flag**.
 
 # Can you help me with my resume?
 
-Sure, we are more than willing to help. Check out our examples at [resumes.jobs.csa.ge](http://resumes.jobs.csa.ge) 
+Sure, we are more than willing to help. Check out our examples at [jobs.csa.ge/resumes](http://jobs.csa.ge/resumes) 
 and feel free to use any of them as your template.
 
 We exclusively use LaTeX. We recommend using [ShareLaTeX](https://sharelatex.com)
