@@ -45,9 +45,9 @@ and their ecosystems are very much alike because of huge cross pollination.
 
 # What are the requirements for employers?
 
-You need to be a **good** employer, that's a rule of thumb. We also have a minimum salary threshold of
+You need to be a **good** employer, that's a rule of thumb. We also have a minimum salary guideline of
 **3K**. When we talk about salaries, we always mean GEL and we always mean net salary, the one you get in 
-your bank account every month. Expect minimum threshold to increase as time goes by.
+your bank account every month. Expect minimum guideline to increase as time goes by.
 
 Also, we expect our candidate companies to have a very good company culture. We embrace diversity and we
 like the kind of work environment where talent is appreciated and people are valued accordingly.
