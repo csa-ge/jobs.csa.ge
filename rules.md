@@ -4,18 +4,6 @@ We are connecting good tech employers with good tech employees. We are in the
 headhunting and recruitment business, but only in tech. We're different 
 because we have very **high standards** both for employers and employees.
 
-# Are you profiting from this?
-
-We are doing this to help people and also to keep the the lights on. Our commission is
-**25%** of the **first salary**. Any parties who will not follow this rule will be banned
-from the community (both employers and employees). We enforce this by **trusting** people.
-Don't abuse our trust. We live in a small country, everybody knows everybody, consequences
-will be **dire**.
-
-To make things perfectly clear, that commission is paid by a hiring company, not by an employee.
-We are only operating within Georgian borders and companies, we have **no business** with
-companies who have no presence in Georgia. 
-
 # What are the requirements for employees?
 
 We only consider candidates who have very well written resumes and an excellent LinkedIn profiles.
@@ -93,6 +81,18 @@ If your English skills are not that great and you wish to improve, don't be afra
 using bad English. We will help you as much as we can. Try to ask friends for help before
 posting. There are tons of good resources online. Just don't write anything in Georgian,
 it will get deleted with no questions asked.
+
+# Are you profiting from this?
+
+We are doing this to help people and also to keep the the lights on. Our commission is
+**25%** of the **first salary**. Any parties who will not follow this rule will be banned
+from the community (both employers and employees). We enforce this by **trusting** people.
+Don't abuse our trust. We live in a small country, everybody knows everybody, consequences
+will be **dire**.
+
+To make things perfectly clear, that commission is paid by a hiring company, not by an employee.
+We are only operating within Georgian borders and companies, we have **no business** with
+companies who have no presence in Georgia.
 
 # I have a PR about the rules, can I submit it?
 
