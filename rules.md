@@ -13,8 +13,8 @@ Don't abuse our trust. We live in a small country, everybody knows everybody, co
 will be **dire**.
 
 To make things perfectly clear, that commission is paid by a hiring company, not by an employee.
-We are only operating within Georgian borders and companies that have operations in Georgia,
-we have **no business** with companies who have no presence in Georgia. 
+We are only operating within Georgian borders and companies, we have **no business** with
+companies who have no presence in Georgia. 
 
 # What are the requirements for employees?
 
