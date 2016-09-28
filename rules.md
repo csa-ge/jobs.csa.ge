@@ -84,11 +84,11 @@ it will get deleted with no questions asked.
 
 # Are you profiting from this?
 
-We are doing this to help people and also to keep the the lights on. Our commission is
-**25%** of the **first salary**. Any parties who will not follow this rule will be banned
-from the community (both employers and employees). We enforce this by **trusting** people.
-Don't abuse our trust. We live in a small country, everybody knows everybody, consequences
-will be **dire**.
+We are doing this to help people and also to keep the the lights on. Our commission is the same amount as
+the **first salary**. It's an industry standard, so nobody should be surprised by this. Any parties
+who will not follow this rule will be banned from the community (both employers and employees).
+We enforce this by **trusting** people. Don't abuse our trust. We live in a small country,
+everybody knows everybody, consequences will be **dire**.
 
 To make things perfectly clear, that commission is paid by a hiring company, not by an employee.
 We are only operating within Georgian borders and companies, we have **no business** with
