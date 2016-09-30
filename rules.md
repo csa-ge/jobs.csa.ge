@@ -20,7 +20,7 @@ Those people are cool as well, we have nothing against them, but we think job ma
 with actual real world coding experience. We expect you to know the basics of logging, monitoring, build tools,
 certain frameworks or toolchains.
 
-Knowing the right tools makes you super efficient. We don't care weather you like `vim` or `emacs`,
+Knowing the right tools makes you super efficient. We don't care whether you like `vim` or `emacs`,
 you enjoy `IntelliJ` or prefer `Sublime`, but we want you to know at least one of IDEs/editors quite well.
 `git` is something used by every programmer, so that's also a must know. Knowing good command line tools, 
 weird unix command like `sed` or `awk` are hard to learn, but they have enormous ROI.
@@ -84,7 +84,7 @@ it will get deleted with no questions asked.
 
 # Are you profiting from this?
 
-We are doing this to help people and also to keep the the lights on. Our commission is the same amount as
+We are doing this to help people and also to keep the lights on. Our commission is the same amount as
 the **first salary**. It's an industry standard, so nobody should be surprised by this. Any parties
 who will not follow this rule will be banned from the community (both employers and employees).
 We enforce this by **trusting** people. Don't abuse our trust. We live in a small country,
